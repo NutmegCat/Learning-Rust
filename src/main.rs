@@ -1,5 +1,6 @@
 fn main() {
     println!("\nHello, world!");
     println!("Do I rebuild?");
-    println!("Strange\n");
+    println!("Strange");
+    println!("Just for fun\n");
 }
